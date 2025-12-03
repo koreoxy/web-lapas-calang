@@ -4,7 +4,7 @@ export default function ContactSection() {
   const contacts = [
     {
       title: "Alamat",
-      content: "Jln. Simpang Calang No. XX, Aceh Jaya",
+      content: "Dayah Baro, Krueng Sabee, Aceh Jaya Regency, Aceh 23655",
     },
     {
       title: "Email",
@@ -12,7 +12,7 @@ export default function ContactSection() {
     },
     {
       title: "Telpon",
-      content: "+62 812-xxx-xxxx",
+      content: "(0645) 2210273",
     },
   ]
 

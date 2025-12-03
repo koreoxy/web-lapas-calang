@@ -6,7 +6,7 @@ export default function Hero() {
       id="beranda"
       className="relative bg-cover bg-center py-24 sm:py-32 px-4"
       style={{
-        backgroundImage: `linear-gradient(rgba(18, 28, 51, 0.6), rgba(18, 28, 51, 0.6)), url('/government-building.jpeg')`,
+        backgroundImage: `linear-gradient(rgba(18, 28, 51, 0.6), rgba(18, 28, 51, 0.6)), url('/government-building.webp')`,
       }}
     >
       <div className="max-w-3xl mx-auto text-center">
