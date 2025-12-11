@@ -1,0 +1,40 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "title": "Bidang Pembinaan",
+      "icon": "pembinaan",
+      "description": "Menangani program pembinaan edukatif, keterampilan, dan spiritual bagi Warga Binaan.",
+      "fullDescription": "Bidang Pembinaan bertanggung jawab menyelenggarakan program pendidikan, pelatihan, serta pembinaan kepribadian dan kemandirian.",
+      "functions": [
+        "Program pendidikan dan pelatihan keterampilan",
+        "Pembinaan spiritual dan moral",
+        "Program reintegrasi sosial",
+        "Monitoring dan evaluasi pembinaan"
+      ],
+      "objectives": [
+        "Meningkatkan kualitas pembinaan",
+        "Membina kemandirian WBP",
+        "Mendukung reintegrasi sosial"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Bidang Keamanan",
+      "icon": "keamanan",
+      "description": "Menjaga keamanan dan ketertiban di lingkungan Lapas.",
+      "fullDescription": "Bidang keamanan memastikan stabilitas, pengawasan, dan keselamatan seluruh area lapas.",
+      "functions": [
+        "Pengamanan perimeter dan internal",
+        "Patroli rutin dan pengawasan",
+        "Penanganan insiden keamanan",
+        "Disiplin dan peraturan penjara"
+      ],
+      "objectives": [
+        "Menjamin keamanan lapas",
+        "Mencegah gangguan kamtib",
+        "Melakukan pengawasan optimal"
+      ]
+    }
+  ]
+}
