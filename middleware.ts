@@ -10,7 +10,7 @@ export function middleware(req: NextRequest) {
   }
 
   // Proteksi halaman /admin
-  if (pathname.startsWith("/admin")) {
+  if (pathname.startsWith("/dashboard")) {
     if (!session) {
       return NextResponse.redirect(new URL("/login", req.url));
     }

@@ -17,7 +17,7 @@ export default function LoginPage() {
     if (res.success === true) {
       // Delay kecil biar pesan tampil sebentar (optional)
       setTimeout(() => {
-        router.push("/")
+        router.push("/dashboard")
       }, 300)
     }
   }
